@@ -1,3 +1,5 @@
+Project worked upon by Caleb Mwangi 
+
 # Headline
 The project has a headine entitled photography.
 
