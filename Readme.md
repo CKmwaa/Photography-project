@@ -12,3 +12,12 @@ The project has a headine entitled photography.
 * The project has images attached to it. 
 ##### 3. Styles
 * The project has different styles attached to it including alignments, padding and colors.
+
+#### Click to the site
+[click Here](https://ckmwaa.github.io/Photography-project/)
+
+
+#### License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
