@@ -17,3 +17,7 @@ The project has a headine entitled photography.
 [click Here](https://ckmwaa.github.io/Photography-project/)
 
 
+#### License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
